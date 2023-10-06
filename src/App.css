@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  height: 100vh;
+  background: url('https://4kwallpapers.com/images/wallpapers/grassland-green-landscape-summer-stock-aesthetic-2048x2048-1167.jpg') no-repeat center center/cover;
 }
 
 .App-logo {
